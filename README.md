@@ -1,7 +1,7 @@
 # console-app-eonix
-first java test
 
-je suis conscient que l'utilisation d'interfaces est une technique courante pour affaiblir le couplage entre les classes dans un projet Java.
+
+Je suis conscient que l'utilisation d'interfaces est une technique courante pour affaiblir le couplage entre les classes dans un projet Java.
 
 Dans notre cas, je peux créer une interface "Tour" qui serait implémentée par deux classes "TourAcrobatie" et "TourMusique" pour représenter les deux types de tours
 Cette interface Tour pourrait contenir une méthode executer qui serait implémentée différemment dans les deux classes concrètes pour exécuter le tour correspondant.
